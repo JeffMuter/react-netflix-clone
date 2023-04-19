@@ -2,7 +2,7 @@ import { NextPage } from "next"
 
 const Home: NextPage = () => {
   return (
-    <div className="bg-blue">
+    <div>
       <h1 className="text-2xl text-green-500">Netflix Clone</h1>
     </div>
   )
