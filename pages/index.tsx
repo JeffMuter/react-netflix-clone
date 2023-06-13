@@ -1,10 +1,9 @@
 import { NextPage } from "next"
+import Auth from "./auth"
 
 const Home: NextPage = () => {
   return (
-    <div>
-      <h1 className="text-2xl text-green-500">Netflix Clone</h1>
-    </div>
+      <Auth></Auth>
   )
 }
 
