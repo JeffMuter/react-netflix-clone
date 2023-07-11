@@ -3,7 +3,7 @@ import Auth from "./auth"
 
 const Home: NextPage = () => {
   return (
-      <Auth></Auth>
+      <Auth />
   )
 }
 
